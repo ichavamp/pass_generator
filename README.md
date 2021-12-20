@@ -9,3 +9,10 @@
 -> Lastly choose how many passwords to generate <-
 
 -> The programm is reusable, meaning you don't have to close and open the application a million times if you want to reuse it. Choose the password settings and after the generations, press any key and the application will start as new, with a console clear screen. After each generations, the settings will be reset <-
+
+
+
+
+
+
+-------------------------------------------------------> Discord: ichavamp#7832 <----------------------------------------------------------------
