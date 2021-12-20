@@ -1,3 +1,5 @@
+-> If you use VS CODE as the c++ compiler, it will compile the main.cpp to main.exe, which is the actual application you need to open <-
+
 -> First of choose the password length(<=INT_MAX) <-
 
 -> Second choose what characters the password should consist of(lower/upper case letters, numbers, special characters) -<
